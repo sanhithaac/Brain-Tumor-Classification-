@@ -18,16 +18,17 @@ A comprehensive medical imaging project that explores and compares classical com
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Seventie">
-        <img src="https://github.com/Seventie.png" width="100px;" alt="Shaik Abdus Sattar"/><br />
-        <sub><b>Shaik Abdus Sattar</b></sub>
-      </a>
-    </td>
+    
     <td align="center">
       <a href="https://github.com/sanhithaac">
         <img src="https://github.com/sanhithaac.png" width="100px;" alt="Sanhitha"/><br />
         <sub><b>@sanhithaac</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Seventie">
+        <img src="https://github.com/Seventie.png" width="100px;" alt="Shaik Abdus Sattar"/><br />
+        <sub><b>Shaik Abdus Sattar</b></sub>
       </a>
     </td>
   </tr>
