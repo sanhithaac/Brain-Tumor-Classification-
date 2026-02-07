@@ -18,7 +18,6 @@ A comprehensive medical imaging project that explores and compares classical com
 
 <table>
   <tr>
-    
     <td align="center">
       <a href="https://github.com/sanhithaac">
         <img src="https://github.com/sanhithaac.png" width="100px;" alt="Sanhitha"/><br />
